@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "console.table": "^0.10.0",
+        "figlet": "^1.5.2",
+        "index.js": "^0.0.3",
+        "inquirer": "^8.2.4",
+        "mysql2": "^2.3.3",
+        "node": "^19.3.0"
+    }
+}
